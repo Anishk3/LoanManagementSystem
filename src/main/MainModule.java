@@ -16,7 +16,7 @@ public class MainModule {
 	ILoanRepository.loanStatus(2);
 	ILoanRepository.loanRepayment(3, 700);
 	ILoanRepository.getAllLoan();
-//	ILoanRepository.applyLoan(loan);
+	ILoanRepository.applyLoan(loan);
 	
 }
 }
